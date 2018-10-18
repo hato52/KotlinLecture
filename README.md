@@ -1,5 +1,9 @@
 # Overview
 
+### 動作環境
+- Android Studio 3.0
+- Android 8.0 Oreo
+
 ### [コード](https://github.com/hato52/KotlinLecture/tree/master/app/src/main/java/com/example/user/lecturesample)
 - MainActivity.kt : メモリストを表示する画面
 - CreateMemoActivity.kt : メモを登録する画面
